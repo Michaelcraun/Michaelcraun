@@ -26,8 +26,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -37,18 +36,14 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-</details>
-
-<details>
+---
   
 ![GitHub followers](https://img.shields.io/github/followers/Michaelcraun?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Michaelcraun?style=social)
   
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Michaelcraun's GitHub Stats" src="https://github-readme-stats-8frbydxfs-michaelcraun.vercel.app/api?username=Michaelcraun" />
-
-</details>
+<img align="left" alt="Michaelcraun's GitHub Stats" src="https://github-readme-stats-8frbydxfs-michaelcraun.vercel.app/api?username=Michaelcraun" />
 
 [twitter]: https://twitter.com/opkurix
 [linkedin]: https://linkedin.com/in/michael-craun

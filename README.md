@@ -1,4 +1,8 @@
-### Hi there, I'm Michael Craun 👋 ![Twitter Follow](https://img.shields.io/twitter/follow/opkurix?style=social)
+### Hi there, I'm Michael Craun 👋 
+
+<br />
+
+![Twitter Follow](https://img.shields.io/twitter/follow/opkurix?style=social)
 
 ## I'm a Husband, Father, and Developer!!
 

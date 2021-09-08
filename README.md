@@ -33,7 +33,7 @@
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Michaelcraun/DiceCalc/issues/3) in [Michaelcraun/DiceCalc](https://github.com/Michaelcraun/DiceCalc)
+1. ❗️ Opened issue [#5](https://github.com/Michaelcraun/DiceCalc/issues/5) in [Michaelcraun/DiceCalc](https://github.com/Michaelcraun/DiceCalc)
 2. 🗣 Commented on [#3](https://github.com/Michaelcraun/DiceCalc/issues/3) in [Michaelcraun/DiceCalc](https://github.com/Michaelcraun/DiceCalc)
 3. 🎉 Merged PR [#4](https://github.com/Michaelcraun/DiceCalc/pull/4) in [Michaelcraun/DiceCalc](https://github.com/Michaelcraun/DiceCalc)
 4. 💪 Opened PR [#4](https://github.com/Michaelcraun/DiceCalc/pull/4) in [Michaelcraun/DiceCalc](https://github.com/Michaelcraun/DiceCalc)

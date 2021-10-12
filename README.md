@@ -33,11 +33,11 @@
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Michaelcraun/MCXMLParser/issues/2) in [Michaelcraun/MCXMLParser](https://github.com/Michaelcraun/MCXMLParser)
-2. 🗣 Commented on [#1](https://github.com/Michaelcraun/MCXMLParser/issues/1) in [Michaelcraun/MCXMLParser](https://github.com/Michaelcraun/MCXMLParser)
-3. ❗️ Closed issue [#1](https://github.com/Michaelcraun/MCXMLParser/issues/1) in [Michaelcraun/MCXMLParser](https://github.com/Michaelcraun/MCXMLParser)
-4. ❗️ Opened issue [#1](https://github.com/Michaelcraun/MCXMLParser/issues/1) in [Michaelcraun/MCXMLParser](https://github.com/Michaelcraun/MCXMLParser)
-5. ❗️ Opened issue [#5](https://github.com/Michaelcraun/DiceCalc/issues/5) in [Michaelcraun/DiceCalc](https://github.com/Michaelcraun/DiceCalc)
+1. ❗️ Opened issue [#4](https://github.com/Michaelcraun/MCXMLParser/issues/4) in [Michaelcraun/MCXMLParser](https://github.com/Michaelcraun/MCXMLParser)
+2. ❗️ Opened issue [#3](https://github.com/Michaelcraun/MCXMLParser/issues/3) in [Michaelcraun/MCXMLParser](https://github.com/Michaelcraun/MCXMLParser)
+3. ❗️ Opened issue [#2](https://github.com/Michaelcraun/MCXMLParser/issues/2) in [Michaelcraun/MCXMLParser](https://github.com/Michaelcraun/MCXMLParser)
+4. 🗣 Commented on [#1](https://github.com/Michaelcraun/MCXMLParser/issues/1) in [Michaelcraun/MCXMLParser](https://github.com/Michaelcraun/MCXMLParser)
+5. ❗️ Closed issue [#1](https://github.com/Michaelcraun/MCXMLParser/issues/1) in [Michaelcraun/MCXMLParser](https://github.com/Michaelcraun/MCXMLParser)
 <!--END_SECTION:activity-->
   
 <br />

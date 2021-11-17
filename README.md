@@ -33,11 +33,11 @@
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/Michaelcraun/minePi/issues/5) in [Michaelcraun/minePi](https://github.com/Michaelcraun/minePi)
-2. ❗️ Closed issue [#1](https://github.com/Michaelcraun/minePi/issues/1) in [Michaelcraun/minePi](https://github.com/Michaelcraun/minePi)
-3. ❗️ Opened issue [#4](https://github.com/Michaelcraun/minePi/issues/4) in [Michaelcraun/minePi](https://github.com/Michaelcraun/minePi)
-4. ❗️ Opened issue [#3](https://github.com/Michaelcraun/minePi/issues/3) in [Michaelcraun/minePi](https://github.com/Michaelcraun/minePi)
-5. ❗️ Opened issue [#2](https://github.com/Michaelcraun/minePi/issues/2) in [Michaelcraun/minePi](https://github.com/Michaelcraun/minePi)
+1. 🎉 Merged PR [#6](https://github.com/Michaelcraun/minePi/pull/6) in [Michaelcraun/minePi](https://github.com/Michaelcraun/minePi)
+2. ❗️ Closed issue [#5](https://github.com/Michaelcraun/minePi/issues/5) in [Michaelcraun/minePi](https://github.com/Michaelcraun/minePi)
+3. ❗️ Opened issue [#5](https://github.com/Michaelcraun/minePi/issues/5) in [Michaelcraun/minePi](https://github.com/Michaelcraun/minePi)
+4. ❗️ Closed issue [#1](https://github.com/Michaelcraun/minePi/issues/1) in [Michaelcraun/minePi](https://github.com/Michaelcraun/minePi)
+5. ❗️ Opened issue [#4](https://github.com/Michaelcraun/minePi/issues/4) in [Michaelcraun/minePi](https://github.com/Michaelcraun/minePi)
 <!--END_SECTION:activity-->
   
 <br />

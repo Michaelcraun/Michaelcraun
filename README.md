@@ -43,9 +43,80 @@
 <br />
   
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 730 Contributions in the Year 2021
+ > 
+> 📦 545.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 48 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    259 commits    ██████████░░░░░░░░░░░░░░░   41.18% 
+🌆 Daytime    266 commits    ██████████░░░░░░░░░░░░░░░   42.29% 
+🌃 Evening    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
+🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
+
 ```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Tuesday      91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
+Wednesday    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.12% 
+Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+Friday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
+Saturday     40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.36% 
+Sunday       119 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.92%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Indiana/Indianapolis
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Swift** 
+
+```text
+Swift                    45 repos            ███████████████████░░░░░░   77.59% 
+Kotlin                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
+Objective-C              2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Michaelcraun/Michaelcraun/main/charts/bar_graph.png) 
+
+
+ Last Updated on 29/11/2021
 <!--END_SECTION:waka-->
 
 ---

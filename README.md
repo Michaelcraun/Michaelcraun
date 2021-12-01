@@ -21,6 +21,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swift]
+[<img align="left" alt="Python" width="26px" src-"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][kotlin]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]([])
@@ -138,6 +139,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 [twitter]: https://twitter.com/opkurix
 [linkedin]: https://linkedin.com/in/michael-craun
 [swift]: https://developer.apple.com/swift/
+[python]: https://www.python.org
 [kotlin]: https://kotlinlang.org
 [javascript]: https://www.javascript.com
 [github]: https://github.com/

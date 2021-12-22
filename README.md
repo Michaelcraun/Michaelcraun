@@ -34,11 +34,11 @@
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/BAChapin/MIE-MCServer/pull/11) in [BAChapin/MIE-MCServer](https://github.com/BAChapin/MIE-MCServer)
-2. 💪 Opened PR [#7](https://github.com/BAChapin/MIE-MCServer/pull/7) in [BAChapin/MIE-MCServer](https://github.com/BAChapin/MIE-MCServer)
-3. 🗣 Commented on [#1](https://github.com/BAChapin/MIE-MCServer/issues/1) in [BAChapin/MIE-MCServer](https://github.com/BAChapin/MIE-MCServer)
-4. ❗️ Opened issue [#5](https://github.com/BAChapin/MIE-MCServer/issues/5) in [BAChapin/MIE-MCServer](https://github.com/BAChapin/MIE-MCServer)
-5. 🗣 Commented on [#2](https://github.com/BAChapin/MIE-MCServer/issues/2) in [BAChapin/MIE-MCServer](https://github.com/BAChapin/MIE-MCServer)
+1. 💪 Opened PR [#20](https://github.com/mietechnologies/MIE-MCServer/pull/20) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+2. ❗️ Opened issue [#19](https://github.com/mietechnologies/MIE-MCServer/issues/19) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+3. 💪 Opened PR [#18](https://github.com/mietechnologies/MIE-MCServer/pull/18) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+4. 💪 Opened PR [#11](https://github.com/BAChapin/MIE-MCServer/pull/11) in [BAChapin/MIE-MCServer](https://github.com/BAChapin/MIE-MCServer)
+5. 💪 Opened PR [#7](https://github.com/BAChapin/MIE-MCServer/pull/7) in [BAChapin/MIE-MCServer](https://github.com/BAChapin/MIE-MCServer)
 <!--END_SECTION:activity-->
   
 <br />

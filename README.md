@@ -34,11 +34,11 @@
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/mietechnologies/MIE-MCServer/pull/22) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-2. 💪 Opened PR [#21](https://github.com/mietechnologies/MIE-MCServer/pull/21) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-3. 💪 Opened PR [#20](https://github.com/mietechnologies/MIE-MCServer/pull/20) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-4. ❗️ Opened issue [#19](https://github.com/mietechnologies/MIE-MCServer/issues/19) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-5. 💪 Opened PR [#18](https://github.com/mietechnologies/MIE-MCServer/pull/18) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+1. ❗️ Opened issue [#23](https://github.com/mietechnologies/MIE-MCServer/issues/23) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+2. 🎉 Merged PR [#5](https://github.com/Michaelcraun/MCCrafting/pull/5) in [Michaelcraun/MCCrafting](https://github.com/Michaelcraun/MCCrafting)
+3. 💪 Opened PR [#5](https://github.com/Michaelcraun/MCCrafting/pull/5) in [Michaelcraun/MCCrafting](https://github.com/Michaelcraun/MCCrafting)
+4. 🎉 Merged PR [#4](https://github.com/Michaelcraun/MCCrafting/pull/4) in [Michaelcraun/MCCrafting](https://github.com/Michaelcraun/MCCrafting)
+5. 💪 Opened PR [#4](https://github.com/Michaelcraun/MCCrafting/pull/4) in [Michaelcraun/MCCrafting](https://github.com/Michaelcraun/MCCrafting)
 <!--END_SECTION:activity-->
   
 <br />

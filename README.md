@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning backend development Python (mostly for use on Raspberry Pi)
 - 💻 I'm currently working on building [MieTech, LLC](https://github.com/mietechnologies)
-- 🥅 2021 Goals: Launch a SwiftUI version of NPCGen5e and build a company
+- 🥅 2022 Goals: Launch a SwiftUI version of NPCGen5e and build a company
 - ⚡ Fun fact: I love to draw and spend time with my kids
 
 ### Connect with me:

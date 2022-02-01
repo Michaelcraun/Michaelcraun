@@ -34,11 +34,11 @@
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/mietechnologies/MIE-MCServer/pull/52) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-2. 🎉 Merged PR [#51](https://github.com/mietechnologies/MIE-MCServer/pull/51) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-3. 💪 Opened PR [#51](https://github.com/mietechnologies/MIE-MCServer/pull/51) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-4. 🎉 Merged PR [#43](https://github.com/mietechnologies/MIE-MCServer/pull/43) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-5. 🎉 Merged PR [#36](https://github.com/mietechnologies/MIE-MCServer/pull/36) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+1. 🎉 Merged PR [#53](https://github.com/mietechnologies/MIE-MCServer/pull/53) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+2. 🎉 Merged PR [#52](https://github.com/mietechnologies/MIE-MCServer/pull/52) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+3. 🎉 Merged PR [#51](https://github.com/mietechnologies/MIE-MCServer/pull/51) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+4. 💪 Opened PR [#51](https://github.com/mietechnologies/MIE-MCServer/pull/51) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+5. 🎉 Merged PR [#43](https://github.com/mietechnologies/MIE-MCServer/pull/43) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
 <!--END_SECTION:activity-->
   
 <br />

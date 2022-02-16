@@ -6,9 +6,10 @@
 
 ## I'm a Husband, Father, and Developer!!
 
-- 🌱 I’m currently learning backend development Python (mostly for use on Raspberry Pi)
+- 🌱 I’m currently learning backend development via Vapor and Python
 - 💻 I'm currently working on building [MieTech, LLC](https://github.com/mietechnologies)
-- 🥅 2022 Goals: Launch a SwiftUI version of NPCGen5e and build a company
+- 🥅 2022 Goals: Launch a SwiftUI version of [NPCGen5e](https://apps.apple.com/us/app/npcgen5e/id1268363893) and build a company
+- 🎮 Current Video Game: [Minecraft](https://minecraft.net)
 - ⚡ Fun fact: I love to draw and spend time with my kids
 
 ### Connect with me:

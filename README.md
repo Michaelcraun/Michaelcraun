@@ -46,13 +46,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Total: 15 hrs 20 mins
+Total: 20 hrs 40 mins
 
-Python       10 hrs 7 mins   ████████████████▓░░░░░░░░   66.06 % 
-Markdown     1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Text         1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-JavaScript   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Kotlin       34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Python       12 hrs 59 mins  ███████████████▓░░░░░░░░░   62.81 % 
+Kotlin       2 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Markdown     1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+JavaScript   1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Text         1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 ```
 <!--END_SECTION:waka-->
 

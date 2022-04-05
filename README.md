@@ -35,11 +35,11 @@
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/mietechnologies/MIE-MCServer/pull/88) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-2. 🗣 Commented on [#77](https://github.com/mietechnologies/MIE-MCServer/issues/77) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-3. ❗️ Opened issue [#86](https://github.com/mietechnologies/MIE-MCServer/issues/86) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-4. 🗣 Commented on [#85](https://github.com/mietechnologies/MIE-MCServer/issues/85) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-5. ❗️ Opened issue [#85](https://github.com/mietechnologies/MIE-MCServer/issues/85) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+1. ❗️ Opened issue [#89](https://github.com/mietechnologies/MIE-MCServer/issues/89) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+2. 💪 Opened PR [#88](https://github.com/mietechnologies/MIE-MCServer/pull/88) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+3. 🗣 Commented on [#77](https://github.com/mietechnologies/MIE-MCServer/issues/77) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+4. ❗️ Opened issue [#86](https://github.com/mietechnologies/MIE-MCServer/issues/86) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+5. 🗣 Commented on [#85](https://github.com/mietechnologies/MIE-MCServer/issues/85) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
 <!--END_SECTION:activity-->
   
 <br />

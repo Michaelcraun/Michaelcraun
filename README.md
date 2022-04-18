@@ -43,19 +43,6 @@
 <!--END_SECTION:activity-->
   
 <br />
-  
-<!--START_SECTION:waka-->
-
-```text
-Kotlin       5 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   39.70 %
-JavaScript   4 hrs 44 mins   █████████▒░░░░░░░░░░░░░░░   37.29 %
-HTML         1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-Text         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Java         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-```
-
-<!--END_SECTION:waka-->
 
 ---
   

@@ -4,7 +4,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/opkurix?style=social)
 
-## I'm a Husband, Father, and Developer!!
+## Child of God, Husband, Father, and Developer; nice to meet you!
 
 - 🌱 I’m currently learning backend development via Vapor and Python
 - 💻 I'm currently working on building [MieTech, LLC](https://github.com/mietechnologies)

@@ -49,8 +49,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Michaelcraun?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Michaelcraun?style=social)
 
-<img align="left" alt="Michaelcraun's GitHub Stats" src="https://github-readme-stats-8frbydxfs-michaelcraun.vercel.app/api?username=Michaelcraun" />
-
 [twitter]: https://twitter.com/opkurix
 [linkedin]: https://linkedin.com/in/michael-craun
 [swift]: https://developer.apple.com/swift/

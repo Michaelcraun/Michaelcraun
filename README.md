@@ -48,8 +48,6 @@
   
 ![GitHub followers](https://img.shields.io/github/followers/Michaelcraun?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Michaelcraun?style=social)
-  
-<summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Michaelcraun's GitHub Stats" src="https://github-readme-stats-8frbydxfs-michaelcraun.vercel.app/api?username=Michaelcraun" />
 

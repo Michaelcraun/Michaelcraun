@@ -1,3 +1,12 @@
+<div align="center">
+  <img alt="Under Construction" width="50%" src="src/under_construction.png" />
+  <p>My GitHub account is currently undergoing some changes and may not be a great experience at the time of your visit.</p>
+  <p>Please excuse any mess, but feel free to look around.</p>
+  <p>Hope the Lord blessed you with an amazing day! 😁 ✝️</p>
+</div>
+
+---
+
 ### Hi there, I'm Michael Craun 👋 
 
 <br />

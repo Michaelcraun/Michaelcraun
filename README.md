@@ -17,9 +17,6 @@
 # Hi there, I'm Michael Craun 👋 
 I am a child of God, husband of one, father of three, programmer, homeowner, DIYer, tech-head, business owner, youtuber, child at heart, and too many other hats to efficiently or effectively count, let alone list. Never enough time, never enough sleep. Don't ask about the bags under my eyes; neither one of us has the time for me to explain... 🥲
 
-## ❤️ What I Care About
-
-
 ## 🛠️ Tech I Work With
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/swift-light.svg">
@@ -85,29 +82,40 @@ I am a child of God, husband of one, father of three, programmer, homeowner, DIY
 
   Vapor
 
-<!-- ### Languages & Frameworks
-- Swift / SwiftUI / UIKit
-- Kotlin / Jetpack Compose
-- JavaScript (Node.js / Express)
-
-### Backend & Data
-- MongoDB (MongoKitten, Vapor)
-- REST APIs
-- gRPC (exploration)
-
-### Tooling & DevOps
-- GitLab CI/CD
-- Fastlane
-- Docker
-- Datadog (RUM, logging, metrics)
+## ❤️ What I Care About
+- **Building tools that solve real problems** — not just demos that look good on paper  
+- **Systems that make sense** — clean, predictable, and easy to extend  
+- **Automation over repetition** — if I do it twice, I probably script it  
+- **Code that someone else can actually read** — including future me
+- **Shipping things** — ideas are cheap, finished projects aren’t  
+- **Small details** — because they’re never actually small
 
 ## 🔬 Things I'm Exploring
-
+- Observability — understanding systems, not just running them  
+- Better backend patterns and API design  
+- Automation at scale — reducing manual work wherever possible  
+- Data pipelines and how to make them reliable  
+- Ways to turn small tools into more complete systems
 
 ## 🧐 Philosophy
+> I care less about what something *could* be and more about what it *actually does*.
 
+I value:
+- working systems over perfect ideas  
+- iteration over hesitation  
+- automation over repetition  
+- and code that holds up over time  
 
-## 🌳 Outside of Code -->
+If it solves a real problem and keeps working, it’s good software.
+
+## 🌳 Outside of Code
+When I’m not coding, I’m usually:
+
+- Building something in Minecraft (often with way more ambition than time)  
+- Recording or editing content for YouTube or Twitch  
+- Designing card systems and game mechanics  
+- Working on 3D printed miniatures and product ideas  
+- Tinkering with new ideas just to see if they work
 
 ## 🤝 Let's Connect
 I enjoy collaborating with others who care about:

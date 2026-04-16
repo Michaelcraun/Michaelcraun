@@ -6,7 +6,7 @@ const token = process.env.GH_TOKEN;
 if (!username) throw new Error("GH_USERNAME is required");
 if (!token) {
   throw new Error(
-    "GH_TOKEN is required. Set GH_PROFILE_TOKEN as a repo secret if GH_TOKEN is insufficient."
+    "GH_TOKEN is required. Set GH_TOKEN as a repo secret if GITHUB_TOKEN is insufficient."
   );
 }
 

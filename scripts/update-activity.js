@@ -63,7 +63,7 @@ function formatEvent(event) {
 
 async function fetchEvents() {
   // Public endpoint works without elevated user scopes.
-  // If you later want private activity, use a PAT in GH_PROFILE_TOKEN.
+  // If you later want private activity, use a PAT in GH_TOKEN.
   const url = `https://api.github.com/users/${username}/events/public?per_page=100`;
 
   const res = await fetch(url, {

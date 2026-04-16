@@ -27,7 +27,7 @@ jobs:
       - name: Update README annual stats section
         env:
           GH_USERNAME: ${{ github.repository_owner }}
-          GH_TOKEN: ${{ secrets.GH_PROFILE_TOKEN || secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
         run: node scripts/update-stats.js
 
       - name: Commit and push changes

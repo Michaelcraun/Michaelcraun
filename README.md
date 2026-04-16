@@ -15,7 +15,9 @@
 <br>
 
 # Hi there, I'm Michael Craun 👋 
-I am a child of God, husband of one, father of three, programmer, homeowner, DIYer, tech-head, business owner, youtuber, child at heart, and too many other hats to efficiently or effectively count, let alone list. Never enough time, never enough sleep. Don't ask about the bags under my eyes; neither one of us has the time for me to explain... 🥲
+I’m a developer, builder, and owner of [MieTech, LLC](https://github.com/mietechnologies), where I focus on creating practical software, tools, and systems that solve real problems. I'm also known to some as [dadmannwalking](https://github.com/dadmannwalking).
+
+I am a child of God, husband, father of three, programmer, homeowner, DIYer, tech-head, business owner, YouTuber, and wearer of more hats than I can count. I care about delivering polished, dependable, feature-complete work.
 
 ## 🛠️ Tech I Work With
   [<picture>
@@ -56,7 +58,7 @@ I am a child of God, husband of one, father of three, programmer, homeowner, DIY
     <img align="left" alt="GitHub" width="20px" src="src/github-dark.svg">
   </picture>][github]
 
-  GitHub (Actions CI/CD)
+  GitHub Actions CI/CD
   
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/docker-light.svg">
@@ -83,6 +85,7 @@ I am a child of God, husband of one, father of three, programmer, homeowner, DIY
   Vapor
 
 ## ❤️ What I Care About
+- **Building [MieTech, LLC](https://github.com/mietechnologies)** — turning ideas into practical tools, products, and systems
 - **Building tools that solve real problems** — not just demos that look good on paper  
 - **Systems that make sense** — clean, predictable, and easy to extend  
 - **Automation over repetition** — if I do it twice, I probably script it  
@@ -126,13 +129,6 @@ I enjoy collaborating with others who care about:
 
 If that sounds like you, you can find me at any of the links below, see you there!
 
-<!-- - 🌱 I’m currently learning about self-hosted system observability with SigNoz
-- 💻 I'm currently working on building [MieTech, LLC](https://github.com/mietechnologies)
-- 🎮 Current Video Game: [Minecraft](https://minecraft.net)
-- ⚡ Fun fact: I love to spend time with my kids and play video games
-- 👤 Also known as [dadmannwalking](https://www.github.com/dadmannwalking) -->
-
-<!-- ### Connect with me: -->
 <!--START_SECTION:socials-->
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/linkedin-light.svg">
@@ -170,7 +166,7 @@ If that sounds like you, you can find me at any of the links below, see you ther
 <!--END_SECTION:activity-->
 
 ## 📈 Annual GitHub Stats
-**NOTE:** This data includes only what data is made publicly vailable by GitHub. It does not contain any information about private repositories.
+**NOTE:** This data includes only what data is made publicly available by GitHub. It does not contain any information about private repositories.
 <!--START_SECTION:annual_stats-->
 - **2026 total contributions:** 292
 - **Commits:** 30
@@ -194,6 +190,6 @@ If that sounds like you, you can find me at any of the links below, see you ther
 [javascript]: https://www.javascript.com
 [github]: https://github.com/
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(macOS)
-[docker]: https://en.wikipedia.org/wiki/Terminal_(macOS)
-[postgresql]: https://en.wikipedia.org/wiki/Terminal_(macOS)
-[vapor]: https://en.wikipedia.org/wiki/Terminal_(macOS)
+[docker]: https://www.docker.com
+[postgresql]: https://www.postgresql.org
+[vapor]: https://vapor.codes

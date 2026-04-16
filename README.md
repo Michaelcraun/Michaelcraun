@@ -27,20 +27,20 @@ I am a child of God, husband of one, father of three, programmer, homeowner, DIY
     <img align="left" alt="Swift" width="20px" src="src/swift-dark.svg">
   </picture>][swift]
   
-  Swift / Objective-C / SwiftUI / UIKit
+  Swift | Objective-C | SwiftUI | UIKit
   
 [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/kotlin-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/kotlin-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="20px" src="src/kotlin-dark.svg">
+    <img align="left" alt="Kotlin" width="20px" src="src/kotlin-dark.svg">
   </picture>][kotlin]
 
-  Kotlin / Jetpack Compose
+  Kotlin | Jetpack Compose
 
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/python-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/python-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="20px" src="src/python-dark.svg">
+    <img align="left" alt="Python" width="20px" src="src/python-dark.svg">
   </picture>][python]
 
   Python
@@ -48,7 +48,7 @@ I am a child of God, husband of one, father of three, programmer, homeowner, DIY
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/javascript-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/javascript-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="20px" src="src/javascript-dark.svg">
+    <img align="left" alt="Javascript" width="20px" src="src/javascript-dark.svg">
   </picture>][javascript]
 
   Javascript (Node.js / Typescript)
@@ -56,7 +56,7 @@ I am a child of God, husband of one, father of three, programmer, homeowner, DIY
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/github-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/github-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="20px" src="src/github-dark.svg">
+    <img align="left" alt="GitHub" width="20px" src="src/github-dark.svg">
   </picture>][github]
 
   GitHub (Actions CI/CD)

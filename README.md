@@ -16,18 +16,83 @@
 
 # Hi there, I'm Michael Craun 👋 
 I am a child of God, husband of one, father of three, programmer, homeowner, DIYer, tech-head, business owner, youtuber, child at heart, and too many other hats to efficiently or effectively count, let alone list. Never enough time, never enough sleep. Don't ask about the bags under my eyes; neither one of us has the time for me to explain... 🥲
-- 🌱 I’m currently learning backend development via Vapor and Python
+
+## ❤️ What I Care About
+
+
+## 🛠️ Tech I Work With
+  [<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="src/swift-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="src/swift-dark.svg">
+    <img align="left" alt="Swift" width="20px" src="src/swift-dark.svg">
+  </picture>][swift]
+  
+  Swift / Objective-C / SwiftUI / UIKit
+
+  <!-- [<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="src/python-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="src/python-dark.svg">
+    <img align="left" alt="Michael Craun on X" width="30px" src="src/python-dark.svg">
+  </picture>][python]
+  
+  [<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="src/kotlin-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="src/kotlin-dark.svg">
+    <img align="left" alt="Michael Craun on X" width="30px" src="src/kotlin-dark.svg">
+  </picture>][kotlin]
+  
+  [<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="src/javascript-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="src/javascript-dark.svg">
+    <img align="left" alt="Michael Craun on X" width="30px" src="src/javascript-dark.svg">
+  </picture>][javascript]
+  
+  [<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="src/github-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="src/github-dark.svg">
+    <img align="left" alt="Michael Craun on X" width="30px" src="src/github-dark.svg">
+  </picture>][github] -->
+
+<!-- ### Languages & Frameworks
+- Swift / SwiftUI / UIKit
+- Kotlin / Jetpack Compose
+- JavaScript (Node.js / Express)
+
+### Backend & Data
+- MongoDB (MongoKitten, Vapor)
+- REST APIs
+- gRPC (exploration)
+
+### Tooling & DevOps
+- GitLab CI/CD
+- Fastlane
+- Docker
+- Datadog (RUM, logging, metrics)
+
+## 🔬 Things I'm Exploring
+
+
+## 🧐 Philosophy
+
+
+## 🌳 Outside of Code -->
+
+## 🤝 Let's Connect
+I enjoy collaborating with others who care about:
+
+- Craftsmanship in software
+- Thoughtful system design
+- Building things that actually matter
+
+If that sounds like you, you can find me at any of the links below, see you there!
+
+<!-- - 🌱 I’m currently learning about self-hosted system observability with SigNoz
 - 💻 I'm currently working on building [MieTech, LLC](https://github.com/mietechnologies)
 - 🎮 Current Video Game: [Minecraft](https://minecraft.net)
-- ⚡ Fun fact: I love to draw and spend time with my kids
-- 👤 Also known as [dadmannwalking](https://www.github.com/dadmannwalking)
+- ⚡ Fun fact: I love to spend time with my kids and play video games
+- 👤 Also known as [dadmannwalking](https://www.github.com/dadmannwalking) -->
 
-<br>
-
-![GitHub followers](https://img.shields.io/github/followers/Michaelcraun?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Michaelcraun?style=social)
-
-### Connect with me:
+<!-- ### Connect with me: -->
 <!--START_SECTION:socials-->
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/linkedin-light.svg">
@@ -46,60 +111,8 @@ I am a child of God, husband of one, father of three, programmer, homeowner, DIY
   </picture>][bluesky]
 <!--END_SECTION:socials-->
 
-<br />
-
-### Languages and Tools:
-  [<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="src/swift-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="src/swift-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="28px" src="src/swift-dark.svg">
-  </picture>][swift]
-
-  [<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="src/python-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="src/python-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="28px" src="src/python-dark.svg">
-  </picture>][python]
-  
-  [<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="src/kotlin-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="src/kotlin-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="30px" src="src/kotlin-dark.svg">
-  </picture>][kotlin]
-  
-  [<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="src/javascript-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="src/javascript-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="30px" src="src/javascript-dark.svg">
-  </picture>][javascript]
-  
-  [<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="src/git-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="src/git-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="30px" src="src/git-dark.svg">
-  </picture>][git]
-  
-  <!-- [<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="src/github-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="src/github-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="30px" src="src/github-dark.svg">
-  </picture>][github] -->
-  
-  <!-- [<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="src/terminal-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="src/terminal-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="30px" src="src/terminal-dark.svg">
-  </picture>][terminal] -->
-
-
-<!-- [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swift]
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][kotlin]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]([])
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal] -->
-
+<br>
+<br>
 <br>
 
 ## ⚡️ Recent GitHub Activity
@@ -117,6 +130,7 @@ I am a child of God, husband of one, father of three, programmer, homeowner, DIY
 <!--END_SECTION:activity-->
 
 ## 📈 Annual GitHub Stats
+**NOTE:** This data includes only what data is made publicly vailable by GitHub. It does not contain any information about private repositories.
 <!--START_SECTION:annual_stats-->
 - **2026 total contributions:** 292
 - **Commits:** 30

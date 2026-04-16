@@ -2,11 +2,12 @@ const fs = require("fs");
 
 const username = process.env.GH_USERNAME;
 const token = process.env.GH_TOKEN;
+const fallbackToken = process.env.GH_FALLBACK_TOKEN;
 
 if (!username) throw new Error("GH_USERNAME is required");
-if (!token) {
+if (!token && !fallbackToken) {
   throw new Error(
-    "GH_TOKEN is required. Set GH_TOKEN as a repo secret if GITHUB_TOKEN is insufficient."
+    "An authentication token is required. Set GH_TOKEN or GH_FALLBACK_TOKEN."
   );
 }
 
@@ -43,11 +44,11 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 }
 `;
 
-async function fetchStats() {
+async function fetchStatsWithToken(authToken) {
   const res = await fetch("https://api.github.com/graphql", {
     method: "POST",
     headers: {
-      "Authorization": `Bearer ${token}`,
+      "Authorization": `Bearer ${authToken}`,
       "Content-Type": "application/json",
       "User-Agent": `${username}-profile-readme-updater`
     },
@@ -71,6 +72,25 @@ async function fetchStats() {
   }
 
   return body.data.user.contributionsCollection;
+}
+
+async function fetchStats() {
+  if (token) {
+    try {
+      return await fetchStatsWithToken(token);
+    } catch (error) {
+      const isUnauthorized =
+        error instanceof Error && error.message.includes("GraphQL error: 401");
+
+      if (!isUnauthorized || !fallbackToken || fallbackToken === token) {
+        throw error;
+      }
+
+      console.warn("GH_TOKEN was rejected for stats. Retrying with fallback token.");
+    }
+  }
+
+  return fetchStatsWithToken(fallbackToken);
 }
 
 function updateSection(readme, content) {

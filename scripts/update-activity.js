@@ -65,20 +65,40 @@ async function fetchEvents() {
   // Public endpoint works without elevated user scopes.
   // If you later want private activity, use a PAT in GH_TOKEN.
   const url = `https://api.github.com/users/${username}/events/public?per_page=100`;
+  const headers = {
+    "Accept": "application/vnd.github+json",
+    "User-Agent": `${username}-profile-readme-updater`
+  };
 
-  const res = await fetch(url, {
-    headers: {
-      "Accept": "application/vnd.github+json",
-      ...(token ? { Authorization: `Bearer ${token}` } : {}),
-      "User-Agent": `${username}-profile-readme-updater`
+  if (token) {
+    const authenticatedRes = await fetch(url, {
+      headers: {
+        ...headers,
+        Authorization: `Bearer ${token}`
+      }
+    });
+
+    if (authenticatedRes.ok) {
+      return authenticatedRes.json();
     }
-  });
 
-  if (!res.ok) {
-    throw new Error(`GitHub API error: ${res.status} ${res.statusText}`);
+    if (authenticatedRes.status !== 401) {
+      throw new Error(
+        `GitHub API error: ${authenticatedRes.status} ${authenticatedRes.statusText}`
+      );
+    }
+
+    console.warn("GH_TOKEN was rejected for public activity. Retrying without authentication.");
   }
 
-  return res.json();
+  const unauthenticatedRes = await fetch(url, { headers });
+  if (!unauthenticatedRes.ok) {
+    throw new Error(
+      `GitHub API error: ${unauthenticatedRes.status} ${unauthenticatedRes.statusText}`
+    );
+  }
+
+  return unauthenticatedRes.json();
 }
 
 function updateSection(readme, content) {

@@ -43,11 +43,16 @@
 
 <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/mietechnologies/MIE-MCServer/issues/83) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-2. 💪 Opened PR [#90](https://github.com/mietechnologies/MIE-MCServer/pull/90) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-3. ❗️ Closed issue [#86](https://github.com/mietechnologies/MIE-MCServer/issues/86) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-4. 🗣 Commented on [#63](https://github.com/mietechnologies/MIE-MCServer/issues/63) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
-5. ❗️ Opened issue [#89](https://github.com/mietechnologies/MIE-MCServer/issues/89) in [mietechnologies/MIE-MCServer](https://github.com/mietechnologies/MIE-MCServer)
+- Made a commit on **Michaelcraun/Michaelcraun**
+- Made a commit on **Michaelcraun/MCSudoku**
+- Made a commit on **Michaelcraun/you-are-special**
+- Made a commit on **Michaelcraun/vh-assistant**
+- Made a commit on **Michaelcraun/useful-swift**
+- Made a commit on **Michaelcraun/learning_swift**
+- Made a commit on **Michaelcraun/WeasleyPlanner**
+- Made a commit on **Michaelcraun/UnltdDngn**
+- Made a commit on **Michaelcraun/ToDo-ToDone**
+- Made a commit on **Michaelcraun/Stack-A-Stack**
 <!--END_SECTION:activity-->
 <br />
 

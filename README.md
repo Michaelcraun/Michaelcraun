@@ -51,7 +51,7 @@ I am a child of God, husband of one, father of three, programmer, homeowner, DIY
     <img align="left" alt="Javascript" width="20px" src="src/javascript-dark.svg">
   </picture>][javascript]
 
-  Javascript (Node.js / Typescript)
+  Javascript | Node.js | Typescript
   
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/github-light.svg">
@@ -60,7 +60,30 @@ I am a child of God, husband of one, father of three, programmer, homeowner, DIY
   </picture>][github]
 
   GitHub (Actions CI/CD)
+  
+  [<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="src/docker-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="src/docker-dark.svg">
+    <img align="left" alt="GitHub" width="20px" src="src/docker-dark.svg">
+  </picture>][docker]
 
+  Docker
+  
+  [<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="src/postgresql-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="src/postgresql-dark.svg">
+    <img align="left" alt="GitHub" width="20px" src="src/postgresql-dark.svg">
+  </picture>][postgresql]
+
+  PostgreSQL | SQLite
+  
+  [<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="src/vapor-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="src/vapor-dark.svg">
+    <img align="left" alt="GitHub" width="20px" src="src/vapor-dark.svg">
+  </picture>][vapor]
+
+  Vapor
 
 <!-- ### Languages & Frameworks
 - Swift / SwiftUI / UIKit
@@ -106,17 +129,17 @@ If that sounds like you, you can find me at any of the links below, see you ther
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/linkedin-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/linkedin-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="28px" src="src/linkedin-dark.svg">
+    <img align="left" alt="Michael Craun on X" width="40px" src="src/linkedin-dark.svg">
   </picture>][linkedin]
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/x-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/x-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="28px" src="src/x-dark.svg">
+    <img align="left" alt="Michael Craun on X" width="40px" src="src/x-dark.svg">
   </picture>][twitter]
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/bluesky-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/bluesky-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="30px" src="src/bluesky-dark.svg">
+    <img align="left" alt="Michael Craun on X" width="40px" src="src/bluesky-dark.svg">
   </picture>][bluesky]
 <!--END_SECTION:socials-->
 
@@ -163,3 +186,6 @@ If that sounds like you, you can find me at any of the links below, see you ther
 [javascript]: https://www.javascript.com
 [github]: https://github.com/
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(macOS)
+[docker]: https://en.wikipedia.org/wiki/Terminal_(macOS)
+[postgresql]: https://en.wikipedia.org/wiki/Terminal_(macOS)
+[vapor]: https://en.wikipedia.org/wiki/Terminal_(macOS)

@@ -136,6 +136,7 @@ If that sounds like you, you can find me at any of the links below. See you ther
 <br>
 
 ## ⚡️ Recent GitHub Activity
+**NOTE:** This data includes only what data is publicly available on GitHub. It does not contain any information about private repositories and is updated every morning at 05:15 UTC. 
 <!--START_SECTION:activity-->
 - Made a commit on **Michaelcraun/Michaelcraun**
 - Made a commit on **Michaelcraun/MCSudoku**
@@ -150,7 +151,7 @@ If that sounds like you, you can find me at any of the links below. See you ther
 <!--END_SECTION:activity-->
 
 ## 📈 Annual GitHub Stats
-**NOTE:** This data includes only what data is made publicly available by GitHub. It does not contain any information about private repositories.
+**NOTE:** This data includes only what data is publicly available on GitHub. It does not contain any information about private repositories and is updated every Monday at 05:30 UTC. 
 <!--START_SECTION:annual_stats-->
 - **2026 total contributions:** 292
 - **Commits:** 30

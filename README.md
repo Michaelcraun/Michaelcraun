@@ -1,21 +1,5 @@
-<div align="center">
-  <img alt="Under Construction" width="50%" src="src/under_construction.png" />
-  <p>My GitHub account is currently undergoing some changes and may not be a great experience at the time of your visit.</p>
-  <p>Please excuse any mess, but feel free to look around.</p>
-  <p>Hope the Lord blessed you with an amazing day! 😁 ✝️</p>
-</div>
-
-<br>
-<br>
-
----
-
-<br>
-<br>
-<br>
-
 # Hi there, I'm Michael Craun 👋 
-I’m a developer, builder, and owner of [MieTech, LLC](https://github.com/mietechnologies), where I focus on creating practical software, tools, and systems that solve real problems. I'm also known to some as [dadmannwalking](https://github.com/dadmannwalking).
+I'm a developer, builder, and owner of [MieTech, LLC](https://github.com/mietechnologies), where I focus on creating practical software, tools, and systems that solve real problems. I'm also known online as [dadmannwalking](https://github.com/dadmannwalking).
 
 I am a child of God, husband, father of three, programmer, homeowner, DIYer, tech-head, business owner, YouTuber, and wearer of more hats than I can count. I care about delivering polished, dependable, feature-complete work.
 
@@ -47,10 +31,10 @@ I am a child of God, husband, father of three, programmer, homeowner, DIYer, tec
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/javascript-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/javascript-dark.svg">
-    <img align="left" alt="Javascript" width="20px" src="src/javascript-dark.svg">
+    <img align="left" alt="JavaScript" width="20px" src="src/javascript-dark.svg">
   </picture>][javascript]
 
-  Javascript | Node.js | Typescript
+  JavaScript | Node.js | TypeScript
   
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/github-light.svg">
@@ -63,7 +47,7 @@ I am a child of God, husband, father of three, programmer, homeowner, DIYer, tec
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/docker-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/docker-dark.svg">
-    <img align="left" alt="GitHub" width="20px" src="src/docker-dark.svg">
+    <img align="left" alt="Docker" width="20px" src="src/docker-dark.svg">
   </picture>][docker]
 
   Docker
@@ -71,7 +55,7 @@ I am a child of God, husband, father of three, programmer, homeowner, DIYer, tec
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/postgresql-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/postgresql-dark.svg">
-    <img align="left" alt="GitHub" width="20px" src="src/postgresql-dark.svg">
+    <img align="left" alt="PostgreSQL" width="20px" src="src/postgresql-dark.svg">
   </picture>][postgresql]
 
   PostgreSQL | SQLite
@@ -79,7 +63,7 @@ I am a child of God, husband, father of three, programmer, homeowner, DIYer, tec
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/vapor-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/vapor-dark.svg">
-    <img align="left" alt="GitHub" width="20px" src="src/vapor-dark.svg">
+    <img align="left" alt="Vapor" width="20px" src="src/vapor-dark.svg">
   </picture>][vapor]
 
   Vapor
@@ -127,13 +111,13 @@ I enjoy collaborating with others who care about:
 - Thoughtful system design
 - Building things that actually matter
 
-If that sounds like you, you can find me at any of the links below, see you there!
+If that sounds like you, you can find me at any of the links below. See you there!
 
 <!--START_SECTION:socials-->
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/linkedin-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/linkedin-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="40px" src="src/linkedin-dark.svg">
+    <img align="left" alt="Michael Craun on LinkedIn" width="40px" src="src/linkedin-dark.svg">
   </picture>][linkedin]
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/x-light.svg">
@@ -143,7 +127,7 @@ If that sounds like you, you can find me at any of the links below, see you ther
   [<picture>
     <source media="(prefers-color-scheme: dark)" srcset="src/bluesky-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="src/bluesky-dark.svg">
-    <img align="left" alt="Michael Craun on X" width="40px" src="src/bluesky-dark.svg">
+    <img align="left" alt="Michael Craun on Bluesky" width="40px" src="src/bluesky-dark.svg">
   </picture>][bluesky]
 <!--END_SECTION:socials-->
 
@@ -182,7 +166,7 @@ If that sounds like you, you can find me at any of the links below, see you ther
 <!--END_SECTION:annual_stats-->
 
 [twitter]: https://twitter.com/opkurix
-[bluesky]: https://twitter.com/opkurix
+[bluesky]: https://bsky.app/profile/michaelcraun.bsky.social
 [linkedin]: https://linkedin.com/in/michael-craun
 [swift]: https://developer.apple.com/swift/
 [python]: https://www.python.org

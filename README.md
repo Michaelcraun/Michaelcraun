@@ -153,17 +153,17 @@ If that sounds like you, you can find me at any of the links below. See you ther
 ## 📈 Annual GitHub Stats
 **NOTE:** This data includes only what data is publicly available on GitHub. It does not contain any information about private repositories and is updated every Monday at 05:30 UTC. 
 <!--START_SECTION:annual_stats-->
-- **2026 total contributions:** 292
-- **Commits:** 30
+- **2026 total contributions:** 412
+- **Commits:** 43
 - **Pull requests:** 0
 - **Issues:** 10
 - **Reviews:** 1
 - **Top repositories by commit contributions:**
-  - **Michaelcraun/Michaelcraun**: 7 commits
+  - **Michaelcraun/Michaelcraun**: 17 commits
+  - **mietechnologies/obsidian-taggable**: 3 commits
   - **Michaelcraun/learning_swift**: 3 commits
   - **Michaelcraun/advent_of_code**: 2 commits
   - **Michaelcraun/WeasleyPlanner**: 2 commits
-  - **Michaelcraun/learning_swiftui**: 1 commits
 <!--END_SECTION:annual_stats-->
 
 [twitter]: https://twitter.com/opkurix

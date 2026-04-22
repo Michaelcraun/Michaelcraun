@@ -138,6 +138,8 @@ If that sounds like you, you can find me at any of the links below. See you ther
 ## ⚡️ Recent GitHub Activity
 **NOTE:** This data includes only what data is publicly available on GitHub. It does not contain any information about private repositories and is updated every morning at 05:15 UTC. 
 <!--START_SECTION:activity-->
+- Made a commit on **mietechnologies/useful_scripts**
+- Created an issue on **mietechnologies/useful_scripts**
 - Made a commit on **mietechnologies/obsidian-taggable**
 - Made a commit on **Michaelcraun/Michaelcraun**
 - Made a commit on **Michaelcraun/MCSudoku**
@@ -146,8 +148,6 @@ If that sounds like you, you can find me at any of the links below. See you ther
 - Made a commit on **Michaelcraun/useful-swift**
 - Made a commit on **Michaelcraun/learning_swift**
 - Made a commit on **Michaelcraun/WeasleyPlanner**
-- Made a commit on **Michaelcraun/UnltdDngn**
-- Made a commit on **Michaelcraun/ToDo-ToDone**
 <!--END_SECTION:activity-->
 
 ## 📈 Annual GitHub Stats

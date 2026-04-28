@@ -146,8 +146,7 @@ If that sounds like you, you can find me at any of the links below. See you ther
 - Made a commit on **Michaelcraun/you-are-special**
 - Made a commit on **Michaelcraun/vh-assistant**
 - Made a commit on **Michaelcraun/useful-swift**
-- Made a commit on **Michaelcraun/learning_swift**
-- Made a commit on **Michaelcraun/WeasleyPlanner**
+- Reviewed a PR in **stonevania/stonevania_season_two_models**
 <!--END_SECTION:activity-->
 
 ## 📈 Annual GitHub Stats

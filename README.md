@@ -142,10 +142,6 @@ If that sounds like you, you can find me at any of the links below. See you ther
 - Created an issue on **mietechnologies/useful_scripts**
 - Made a commit on **mietechnologies/obsidian-taggable**
 - Made a commit on **Michaelcraun/Michaelcraun**
-- Made a commit on **Michaelcraun/MCSudoku**
-- Made a commit on **Michaelcraun/you-are-special**
-- Made a commit on **Michaelcraun/vh-assistant**
-- Made a commit on **Michaelcraun/useful-swift**
 - Reviewed a PR in **stonevania/stonevania_season_two_models**
 <!--END_SECTION:activity-->
 

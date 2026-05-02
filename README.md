@@ -139,14 +139,14 @@ If that sounds like you, you can find me at any of the links below. See you ther
 **NOTE:** This data includes only what data is publicly available on GitHub. It does not contain any information about private repositories and is updated every morning at 05:15 UTC. 
 <!--START_SECTION:activity-->
 - Made a commit on **mietechnologies/obsidian-releases**
+- Made a commit on **mietechnologies/obsidian-mtg_assistant**
+- Opened a PR on **obsidianmd/obsidian-releases**
 - Created a branch in **mietechnologies/obsidian-releases**
 - Published a release in **mietechnologies/obsidian-mtg_assistant**
-- Made a commit on **mietechnologies/obsidian-mtg_assistant**
 - Made a commit on **mietechnologies/useful_scripts**
 - Created an issue on **mietechnologies/useful_scripts**
 - Made a commit on **mietechnologies/obsidian-taggable**
 - Made a commit on **Michaelcraun/Michaelcraun**
-- Reviewed a PR in **stonevania/stonevania_season_two_models**
 <!--END_SECTION:activity-->
 
 ## 📈 Annual GitHub Stats

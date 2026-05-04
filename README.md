@@ -146,7 +146,6 @@ If that sounds like you, you can find me at any of the links below. See you ther
 - Made a commit on **mietechnologies/useful_scripts**
 - Created an issue on **mietechnologies/useful_scripts**
 - Made a commit on **mietechnologies/obsidian-taggable**
-- Made a commit on **Michaelcraun/Michaelcraun**
 <!--END_SECTION:activity-->
 
 ## 📈 Annual GitHub Stats

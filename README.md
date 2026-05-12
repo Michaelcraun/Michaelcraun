@@ -143,7 +143,6 @@ If that sounds like you, you can find me at any of the links below. See you ther
 - Opened a PR on **obsidianmd/obsidian-releases**
 - Created a branch in **mietechnologies/obsidian-releases**
 - Published a release in **mietechnologies/obsidian-mtg_assistant**
-- Made a commit on **mietechnologies/useful_scripts**
 - Created an issue on **mietechnologies/useful_scripts**
 <!--END_SECTION:activity-->
 

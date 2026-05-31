@@ -140,7 +140,6 @@ If that sounds like you, you can find me at any of the links below. See you ther
 <!--START_SECTION:activity-->
 - Made a commit on **mietechnologies/obsidian-mtg_assistant**
 - Opened a PR on **obsidianmd/obsidian-releases**
-- Published a release in **mietechnologies/obsidian-mtg_assistant**
 <!--END_SECTION:activity-->
 
 ## 📈 Annual GitHub Stats

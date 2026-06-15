@@ -145,10 +145,10 @@ If that sounds like you, you can find me at any of the links below. See you ther
 ## 📈 Annual GitHub Stats
 **NOTE:** This data includes only what data is publicly available on GitHub. It does not contain any information about private repositories and is updated every Monday at 05:30 UTC. 
 <!--START_SECTION:annual_stats-->
-- **2026 total contributions:** 1009
+- **2026 total contributions:** 1053
 - **Commits:** 79
 - **Pull requests:** 1
-- **Issues:** 11
+- **Issues:** 16
 - **Reviews:** 1
 - **Top repositories by commit contributions:**
   - **mietechnologies/obsidian-mtg_assistant**: 33 commits

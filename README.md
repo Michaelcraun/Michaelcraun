@@ -139,7 +139,6 @@ If that sounds like you, you can find me at any of the links below. See you ther
 **NOTE:** This data includes only what data is publicly available on GitHub. It does not contain any information about private repositories and is updated every morning at 05:15 UTC. 
 <!--START_SECTION:activity-->
 - Created an issue on **mietechnologies/obsidian-mtg_assistant**
-- Made a commit on **mietechnologies/obsidian-mtg_assistant**
 <!--END_SECTION:activity-->
 
 ## 📈 Annual GitHub Stats

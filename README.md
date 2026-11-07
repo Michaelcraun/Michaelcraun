@@ -138,11 +138,11 @@ If that sounds like you, you can find me at any of the links below. See you ther
 ## ⚡️ Recent GitHub Activity
 **NOTE:** This data includes only what data is publicly available on GitHub. It does not contain any information about private repositories and is updated every morning at 05:15 UTC. 
 <!--START_SECTION:activity-->
-- Created a branch in **Michaelcraun/FireStorage**
-- Created a branch in **Michaelcraun/Claudova**
 - Made a commit on **Michaelcraun/FireStorage**
-- Commented on an issue in **mietechnologies/product_catalog_website**
+- Created a branch in **Michaelcraun/FireStorage**
 - Created an issue on **mietechnologies/product_catalog_website**
+- Created a branch in **Michaelcraun/Claudova**
+- Commented on an issue in **mietechnologies/product_catalog_website**
 - Published a release in **mietechnologies/product_catalog_website**
 <!--END_SECTION:activity-->
 

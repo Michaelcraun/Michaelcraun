@@ -149,17 +149,17 @@ If that sounds like you, you can find me at any of the links below. See you ther
 ## 📈 Annual GitHub Stats
 **NOTE:** This data includes only what data is publicly available on GitHub. It does not contain any information about private repositories and is updated every Monday at 05:30 UTC. 
 <!--START_SECTION:annual_stats-->
-- **2026 total contributions:** 2270
-- **Commits:** 110
+- **2026 total contributions:** 2351
+- **Commits:** 116
 - **Pull requests:** 1
-- **Issues:** 17
+- **Issues:** 23
 - **Reviews:** 2
 - **Top repositories by commit contributions:**
   - **mietechnologies/obsidian-mtg_assistant**: 64 commits
   - **Michaelcraun/Michaelcraun**: 17 commits
+  - **Michaelcraun/FireStorage**: 5 commits
   - **mietechnologies/useful_scripts**: 3 commits
   - **mietechnologies/obsidian-taggable**: 3 commits
-  - **Michaelcraun/learning_swift**: 3 commits
 <!--END_SECTION:annual_stats-->
 
 [twitter]: https://twitter.com/opkurix
